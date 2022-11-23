@@ -13,7 +13,7 @@ This App is simple game which mocks regular tennis game score. Demonstrate MVVM 
 <img alt="App High Level Architecture" height="400px" src="https://github.com/manju1375/TennisBoardApp/blob/master/sequence_diagram.png" />
 
 ### Demo
-<img height="400px" src="https://github.com/manju1375/TennisBoardApp/blob/master/tennis_game_gif.gif"/>
+will be uploaded soon
 
 ## Author
 [Manjunath D]( https://github.com/manju1375)
